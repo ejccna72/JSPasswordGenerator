@@ -36,7 +36,7 @@ var generateBtn = document.querySelector("#generate");
   }
 
 // This function creates the strong password from the user choices.
-  function generatePassword() {
+  function makePassword() {
     var passwordOptions = options();
     var possibleCombo = [];
     var finalPassword = "";
@@ -76,7 +76,7 @@ var generateBtn = document.querySelector("#generate");
 
 // This function inserts the finalPassword to #password input
   function writePassword() {
-    var password = generatePassword();
+    var password = makePassword();
     var passwordText = document.querySelector("#password");
     passwordText.value = password;
   }
