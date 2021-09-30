@@ -1,4 +1,4 @@
-// Global variable declarations
+// Begin our page
 var generateBtn = document.querySelector("#generate");
 
 // Define arrays of all combo possibilities
