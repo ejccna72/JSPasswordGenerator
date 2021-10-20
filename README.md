@@ -41,7 +41,7 @@ The following image demonstrates the application functionality:
 https://ejccna72.github.io/JSPasswordGenerator/
 
 ## LICENSE
-
+git 
 MIT License
 
 Copyright (c) [2021] [Eric Johnson]
